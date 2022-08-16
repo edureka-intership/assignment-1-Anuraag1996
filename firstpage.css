@@ -1,0 +1,150 @@
+.Top_Ribbon{
+    width: 1366px;
+    height: 80px;
+    background-color: #CE0505;
+    opacity: 1;
+}
+.logo{
+    position: absolute;
+    left:102px;
+    top: 25px;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    background-color: white;
+    border-radius: 50%;
+    text-align: center;
+    /* font: normal normal 600 33px/50px Poppins; */
+    font-size: 40px;
+    font-style: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 0px;
+    color: #EB2929;
+    opacity: 1;
+}
+.login_button{
+    float:right;
+    display: inline-block;
+    margin-top: 32px;
+    margin-right: 25px;
+    margin-left: 100px;
+    font: normal normal medium 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: white;
+    opacity: 1;    
+    border: none;
+    background: none; 
+
+}
+.create_an_account{
+    float:right;
+    display: inline-block;
+    margin-top: 18px;
+    margin-right: 70px;
+    width: 150px;
+    height: 46px;
+    background-color: #CE0505;
+    border: 1px solid white;
+    border-radius: 3px;
+    opacity: 1;
+    font: normal normal medium 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: white;
+    opacity: 1;
+}
+.Heading{
+    display: inline-block;
+    /* border: 2px solid black; */
+}
+.Heading > h2{
+    font: normal normal bold 36px/55px Poppins;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    width: 514px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 113px;
+}
+.Filter{
+    display: block;
+    margin-left: 115px;
+    width: 220px;
+    height: 540px;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+.Form{
+    margin-left: 20px;
+    font-family: Arial, sans-serif;
+}
+.Form>label{
+    font-weight:bold;
+    color: #192F60;
+}
+input{
+    color:#8C96AB;
+}
+select{
+    border: 2px solid #8C96AB;
+    border-radius: 3px;
+    opacity: 1;
+    padding: 5px;
+}
+.Hotel1{
+    position: absolute;
+    top: 190px;
+    left: 400px;
+    display: inline-block;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    width: 700px;
+    height: 240px;
+}
+.Hotel2{
+    position: absolute;
+    top: 440px;
+    left: 400px;
+    display: inline-block;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    width: 700px;
+    height: 240px;
+}
+.image{
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 120px;
+    height: 120px;
+    border-radius: 20%;
+}
+.Hotel1>h2, .Hotel2>h2{
+    font-family: Arial, sans-serif;
+    font-size: 1.5em;
+    color:#192F60;
+    margin-left: 175px;
+    margin-top: -100px;
+}
+pre{
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color:#8899be;
+    opacity:3;
+}
+hr{
+    border: 0.5px solid #8C96AB;
+    opacity: 0.3;
+    width:90%;
+}
+a{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid #8C96AB;
+    border-radius: 7px;
+    opacity:0.8;
+    color:#8C96AB;
+    padding:10px;
+    font-family: Arial, sans-serif;
+    font-weight:bold;
+    text-decoration: none;
+}
